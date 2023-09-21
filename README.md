@@ -7,3 +7,12 @@ The Blog App API is a Spring Boot-based RESTful web service that provides authen
 - Role-based access control (RBAC) with roles like 'ADMIN', 'USER'.
 - CRUD operations for blog posts.
 - User management (CRUD operations for users).
+
+## Technology Stack
+
+- SpringBoot 
+- Java
+- Spring Data JPA
+- Spring Security 
+- JSON Web Tokens (JWT)
+- MySQL
